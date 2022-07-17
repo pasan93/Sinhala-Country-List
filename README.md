@@ -5,7 +5,7 @@
 
 ## දැනට සම්පූර්ණ කර නැති ලැයිස්තු
 
- - සියලුම රටවල් වල ලැයිස්තුව
+ - සියලුම රටවල් වල ලැයිස්තුව : [Plain Text](https://github.com/pasan93/Sinhala-Country-List/blob/main/Sinhala%20Country%20List) | JSON | XML
 
 [kalinchernev/countries](https://gist.github.com/kalinchernev/486393efcca01623b18d) : ඇසුරෙන්
 
