@@ -3,5 +3,12 @@
 
 ශ්‍රී ලංකාව තුළ හෝ සිංහල භාවිතා කරන පරිශීලකයන් සඳහා මුදුකාංග නිෂ්පාදනය කිරීමේදී අවශ්‍ය ලැයිස්තු වල එකතුවක්.
 
-Based on: [kalinchernev/countries](https://gist.github.com/kalinchernev/486393efcca01623b18d)
+## දැනට සම්පූර්ණ කර නැති ලැයිස්තු
 
+ - සියලුම රටවල් වල ලැයිස්තුව
+
+[kalinchernev/countries](https://gist.github.com/kalinchernev/486393efcca01623b18d) : ඇසුරෙන්
+
+## දැනට සකසාගෙන යන ලැයිස්තු
+
+ - දුරකථන අංක, ජාතික කොඩි සහ ISO කේත ඇතුලත් ලැයිස්තුව
