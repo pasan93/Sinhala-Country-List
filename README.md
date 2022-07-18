@@ -5,10 +5,10 @@
 
 ## දැනට සම්පූර්ණ කර ඇති ලැයිස්තු
 
- - සියලුම රටවල් වල ලැයිස්තුව : [Plain Text](https://github.com/pasan93/Sinhala-Country-List/blob/main/Sinhala%20Country%20List) | JSON | XML
+  - දුරකථන අංක, ජාතික කොඩි සහ ISO කේත ඇතුලත් ලැයිස්තුව :  Plain Text | [JSON](https://github.com/pasan93/Sinhala-Country-List/blob/develop/Translated_Sinhala_Country_List.json) | XML
 
-[kalinchernev/countries](https://gist.github.com/kalinchernev/486393efcca01623b18d) : ඇසුරෙන්
+ - සියලුම රටවල් වල ලැයිස්තුව : [Plain Text](https://github.com/pasan93/Sinhala-Country-List/blob/main/Sinhala%20Country%20List) | JSON | XML *([kalinchernev/countries](https://gist.github.com/kalinchernev/486393efcca01623b18d) : ඇසුරෙන්)*
 
-## දැනට සකසාගෙන යන ලැයිස්තු
 
- - දුරකථන අංක, ජාතික කොඩි සහ ISO කේත ඇතුලත් ලැයිස්තුව
+
+
