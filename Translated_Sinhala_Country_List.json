@@ -30,6 +30,12 @@
         "dial_code": "+244"
     },
     {
+        "name": "Antigua & Deps",
+        "flag": null,
+        "code": null,
+        "dial_code": null
+    },
+    {
         "name": "ආර්ජන්ටිනාව",
         "flag": "🇦🇷",
         "code": "AR",
@@ -114,6 +120,18 @@
         "dial_code": "+975"
     },
     {
+        "name": "Bolivia",
+        "flag": null,
+        "code": null,
+        "dial_code": null
+    },
+    {
+        "name": "Bosnia Herzegovina",
+        "flag": null,
+        "code": null,
+        "dial_code": null
+    },
+    {
         "name": "බොට්ස්වානා",
         "flag": "🇧🇼",
         "code": "BW",
@@ -126,10 +144,22 @@
         "dial_code": "+55"
     },
     {
+        "name": "Brunei",
+        "flag": null,
+        "code": null,
+        "dial_code": null
+    },
+    {
         "name": "බල්ගේරියාව",
         "flag": "🇧🇬",
         "code": "BG",
         "dial_code": "+359"
+    },
+    {
+        "name": "Burkina",
+        "flag": null,
+        "code": null,
+        "dial_code": null
     },
     {
         "name": "බුරුන්දි ",
@@ -160,6 +190,12 @@
         "flag": "🇨🇻",
         "code": "CV",
         "dial_code": "+238"
+    },
+    {
+        "name": "Central African Rep",
+        "flag": null,
+        "code": null,
+        "dial_code": null
     },
     {
         "name": "චැඩ් රාජ්‍යය",
@@ -196,6 +232,12 @@
         "flag": "🇨🇬",
         "code": "CG",
         "dial_code": "+242"
+    },
+    {
+        "name": "Congo {Democratic Rep}",
+        "flag": null,
+        "code": null,
+        "dial_code": null
     },
     {
         "name": "කොස්ටාරිකා",
@@ -250,6 +292,12 @@
         "flag": "🇩🇴",
         "code": "DO",
         "dial_code": "+1849"
+    },
+    {
+        "name": "East Timor",
+        "flag": null,
+        "code": null,
+        "dial_code": null
     },
     {
         "name": "ඉක්වදෝරය",
@@ -414,10 +462,22 @@
         "dial_code": "+62"
     },
     {
+        "name": "Iran",
+        "flag": null,
+        "code": null,
+        "dial_code": null
+    },
+    {
         "name": "ඉරාකය",
         "flag": "🇮🇶",
         "code": "IQ",
         "dial_code": "+964"
+    },
+    {
+        "name": "Ireland {Republic}",
+        "flag": null,
+        "code": null,
+        "dial_code": null
     },
     {
         "name": "ඊශ්‍රායලය",
@@ -430,6 +490,12 @@
         "flag": "🇮🇹",
         "code": "IT",
         "dial_code": "+39"
+    },
+    {
+        "name": "Ivory Coast",
+        "flag": null,
+        "code": null,
+        "dial_code": null
     },
     {
         "name": "ජැමෙයිකාව",
@@ -466,6 +532,18 @@
         "flag": "🇰🇮",
         "code": "KI",
         "dial_code": "+686"
+    },
+    {
+        "name": "Korea North",
+        "flag": null,
+        "code": null,
+        "dial_code": null
+    },
+    {
+        "name": "Korea South",
+        "flag": null,
+        "code": null,
+        "dial_code": null
     },
     {
         "name": "කොසෝවෝ",
@@ -514,6 +592,12 @@
         "flag": "🇱🇷",
         "code": "LR",
         "dial_code": "+231"
+    },
+    {
+        "name": "Libya",
+        "flag": null,
+        "code": null,
+        "dial_code": null
     },
     {
         "name": "ලිච්ටෙන්ස්ටයින්",
@@ -600,6 +684,12 @@
         "dial_code": "+52"
     },
     {
+        "name": "Micronesia",
+        "flag": null,
+        "code": null,
+        "dial_code": null
+    },
+    {
         "name": "මොල්ඩෝව ",
         "flag": "🇲🇩",
         "code": "MD",
@@ -634,6 +724,12 @@
         "flag": "🇲🇿",
         "code": "MZ",
         "dial_code": "+258"
+    },
+    {
+        "name": "Myanmar, {Burma}",
+        "flag": null,
+        "code": null,
+        "dial_code": null
     },
     {
         "name": "නැම්බියාව ",
@@ -762,10 +858,34 @@
         "dial_code": "+40"
     },
     {
+        "name": "Russian Federation",
+        "flag": null,
+        "code": null,
+        "dial_code": null
+    },
+    {
         "name": "රුවන්ඩාව",
         "flag": "🇷🇼",
         "code": "RW",
         "dial_code": "+250"
+    },
+    {
+        "name": "St Kitts & Nevis",
+        "flag": null,
+        "code": null,
+        "dial_code": null
+    },
+    {
+        "name": "St Lucia",
+        "flag": null,
+        "code": null,
+        "dial_code": null
+    },
+    {
+        "name": "Saint Vincent & the Grenadines",
+        "flag": null,
+        "code": null,
+        "dial_code": null
     },
     {
         "name": "සැමෝවා",
@@ -778,6 +898,12 @@
         "flag": "🇸🇲",
         "code": "SM",
         "dial_code": "+378"
+    },
+    {
+        "name": "Sao Tome & Principe",
+        "flag": null,
+        "code": null,
+        "dial_code": null
     },
     {
         "name": "සවුදි අරාබිය",
@@ -894,6 +1020,12 @@
         "dial_code": "+41"
     },
     {
+        "name": "Syria",
+        "flag": null,
+        "code": null,
+        "dial_code": null
+    },
+    {
         "name": "තායිවානය",
         "flag": "🇹🇼",
         "code": "TW",
@@ -904,6 +1036,12 @@
         "flag": "🇹🇯",
         "code": "TJ",
         "dial_code": "+992"
+    },
+    {
+        "name": "Tanzania",
+        "flag": null,
+        "code": null,
+        "dial_code": null
     },
     {
         "name": "තායිලන්තය",
@@ -922,6 +1060,12 @@
         "flag": "🇹🇴",
         "code": "TO",
         "dial_code": "+676"
+    },
+    {
+        "name": "Trinidad & Tobago",
+        "flag": null,
+        "code": null,
+        "dial_code": null
     },
     {
         "name": "ටියුනීසියාව",
@@ -996,6 +1140,18 @@
         "dial_code": "+678"
     },
     {
+        "name": "Vatican City",
+        "flag": null,
+        "code": null,
+        "dial_code": null
+    },
+    {
+        "name": "Venezuela",
+        "flag": null,
+        "code": null,
+        "dial_code": null
+    },
+    {
         "name": "වියට්නාමය",
         "flag": "🇻🇳",
         "code": "VN",
@@ -1018,161 +1174,5 @@
         "flag": "🇿🇼",
         "code": "ZW",
         "dial_code": "+263"
-    },
-    {
-        "name": "Iran",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Ireland {Republic}",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "St Kitts & Nevis",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Ivory Coast",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Micronesia",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Tanzania",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Congo {Democratic Rep}",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Sao Tome & Principe",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Burkina",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Brunei",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "St Lucia",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Bolivia",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "East Timor",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Vatican City",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Korea North",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Myanmar, {Burma}",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Syria",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Bosnia Herzegovina",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Libya",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Antigua & Deps",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Saint Vincent & the Grenadines",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Trinidad & Tobago",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Russian Federation",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Venezuela",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Korea South",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
-        "name": "Central African Rep",
-        "flag": null,
-        "code": null,
-        "dial_code": null
     }
 ]
