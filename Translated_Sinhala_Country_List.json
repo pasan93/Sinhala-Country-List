@@ -30,12 +30,6 @@
         "dial_code": "+244"
     },
     {
-        "name": "Antigua & Deps",
-        "flag": null,
-        "code": null,
-        "dial_code": null
-    },
-    {
         "name": "ආර්ජන්ටිනාව",
         "flag": "🇦🇷",
         "code": "AR",
@@ -120,16 +114,16 @@
         "dial_code": "+975"
     },
     {
-        "name": "Bolivia",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "බොලීවියාව",
+        "flag": "🇧🇴",
+        "code": "BO",
+        "dial_code": "+591",
     },
     {
-        "name": "Bosnia Herzegovina",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "බොස්නියා සහ හර්සගෝවිනා",
+        "flag": "🇧🇦",
+        "code": "BA",
+        "dial_code": "+387",
     },
     {
         "name": "බොට්ස්වානා",
@@ -144,10 +138,10 @@
         "dial_code": "+55"
     },
     {
-        "name": "Brunei",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "බෲනායි",
+        "flag": "🇧🇳",
+        "code": "BN",
+        "dial_code": "+673",
     },
     {
         "name": "බල්ගේරියාව",
@@ -156,10 +150,10 @@
         "dial_code": "+359"
     },
     {
-        "name": "Burkina",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "බුර්කිනා ෆාසෝ",
+        "flag": "🇧🇫",
+        "code": "BF",
+        "dial_code": "+226",
     },
     {
         "name": "බුරුන්දි ",
@@ -192,10 +186,10 @@
         "dial_code": "+238"
     },
     {
-        "name": "Central African Rep",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "මධ්‍යම අප්‍රිකානු සමූහාණ්ඩුව",
+        "flag": "🇨🇫",
+        "code": "CF",
+        "dial_code": "+236",
     },
     {
         "name": "චැඩ් රාජ්‍යය",
@@ -234,10 +228,10 @@
         "dial_code": "+242"
     },
     {
-        "name": "Congo {Democratic Rep}",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "කොන්ගෝ ප්‍රජාතන්ත්‍රවාදී සමුහාණ්ඩුව",
+        "flag": "🇨🇩",
+        "code": "CD",
+        "dial_code": "+243",
     },
     {
         "name": "කොස්ටාරිකා",
@@ -294,10 +288,10 @@
         "dial_code": "+1849"
     },
     {
-        "name": "East Timor",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "නැගෙනහිර ටිමෝරය",
+        "flag": "🇹🇱",
+        "code": "TL",
+        "dial_code": "+670",
     },
     {
         "name": "ඉක්වදෝරය",
@@ -462,10 +456,10 @@
         "dial_code": "+62"
     },
     {
-        "name": "Iran",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "ඉරානය",
+        "flag": "🇮🇷",
+        "code": "IR",
+        "dial_code": "+98",
     },
     {
         "name": "ඉරාකය",
@@ -474,10 +468,10 @@
         "dial_code": "+964"
     },
     {
-        "name": "Ireland {Republic}",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "අයර්ලන්තය",
+        "flag": "🇮🇪",
+        "code": "IE",
+        "dial_code": "+353",
     },
     {
         "name": "ඊශ්‍රායලය",
@@ -492,10 +486,10 @@
         "dial_code": "+39"
     },
     {
-        "name": "Ivory Coast",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "අයිවරි කෝස්ට්",
+        "flag": "🇨🇮",
+        "code": "CI",
+        "dial_code": "+225",
     },
     {
         "name": "ජැමෙයිකාව",
@@ -528,22 +522,22 @@
         "dial_code": "+254"
     },
     {
-        "name": "කිරිබටි",
+        "name": "කිරිබති",
         "flag": "🇰🇮",
         "code": "KI",
         "dial_code": "+686"
     },
     {
-        "name": "Korea North",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "උතුරු කොරියාව",
+        "flag": "🇰🇵",
+        "code": "KP",
+        "dial_code": "+850",
     },
     {
-        "name": "Korea South",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "දකුණු කොරියාව",
+        "flag": "🇰🇷",
+        "code": "KR",
+        "dial_code": "+82",
     },
     {
         "name": "කොසෝවෝ",
@@ -594,10 +588,10 @@
         "dial_code": "+231"
     },
     {
-        "name": "Libya",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "ලිබියාව",
+        "flag": "🇱🇾",
+        "code": "LY",
+        "dial_code": "+218",
     },
     {
         "name": "ලිච්ටෙන්ස්ටයින්",
@@ -606,7 +600,7 @@
         "dial_code": "+423"
     },
     {
-        "name": "ලිතුවේනියා",
+        "name": "ලිතුවේනියාව",
         "flag": "🇱🇹",
         "code": "LT",
         "dial_code": "+370"
@@ -684,10 +678,10 @@
         "dial_code": "+52"
     },
     {
-        "name": "Micronesia",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "මයික්‍රෝනිසියාව",
+        "flag": "🇫🇲",
+        "code": "FM",
+        "dial_code": "+691",
     },
     {
         "name": "මොල්ඩෝව ",
@@ -708,7 +702,7 @@
         "dial_code": "+976"
     },
     {
-        "name": "මොන්ටිනිග්රෝ",
+        "name": "මොන්ටිනීග්‍රෝ",
         "flag": "🇲🇪",
         "code": "ME",
         "dial_code": "+382"
@@ -726,10 +720,10 @@
         "dial_code": "+258"
     },
     {
-        "name": "Myanmar, {Burma}",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "මියන්මාරය (බුරුමය)",
+        "flag": "🇲🇲",
+        "code": "MM",
+        "dial_code": "+95",
     },
     {
         "name": "නැම්බියාව ",
@@ -858,10 +852,10 @@
         "dial_code": "+40"
     },
     {
-        "name": "Russian Federation",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "රුසියානු සමූහාණ්ඩුව",
+        "flag": "🇷🇺",
+        "code": "RU",
+        "dial_code": "+7",
     },
     {
         "name": "රුවන්ඩාව",
@@ -870,22 +864,22 @@
         "dial_code": "+250"
     },
     {
-        "name": "St Kitts & Nevis",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "ශාන්ත කිට්ස් සහ නෙවිස්",
+        "flag": "🇰🇳",,
+        "code": "KN",
+        "dial_code": "+1",
     },
     {
-        "name": "St Lucia",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "ශාන්ත ලුසියා",
+        "flag": "🇱🇨",
+        "code": "LC",
+        "dial_code": "+1",
     },
     {
-        "name": "Saint Vincent & the Grenadines",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "ශාන්ත වින්සන්ට් සහ ග්රෙනඩින්ස්",
+        "flag": "🇻🇨",
+        "code": "VC",
+        "dial_code": "+1",
     },
     {
         "name": "සැමෝවා",
@@ -900,10 +894,10 @@
         "dial_code": "+378"
     },
     {
-        "name": "Sao Tome & Principe",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "සාඕ තෝම් සහ ප්‍රින්සිප්",
+        "flag": "🇸🇹",
+        "code": "ST",
+        "dial_code": "+239",
     },
     {
         "name": "සවුදි අරාබිය",
@@ -1020,10 +1014,10 @@
         "dial_code": "+41"
     },
     {
-        "name": "Syria",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "සිරියාව",
+        "flag": "🇸🇾",
+        "code": "SY",
+        "dial_code": +963
     },
     {
         "name": "තායිවානය",
@@ -1038,10 +1032,10 @@
         "dial_code": "+992"
     },
     {
-        "name": "Tanzania",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "ටැන්සානියාව",
+        "flag": "🇹🇿",
+        "code": 'TZ",
+        "dial_code": "+255",
     },
     {
         "name": "තායිලන්තය",
@@ -1062,10 +1056,10 @@
         "dial_code": "+676"
     },
     {
-        "name": "Trinidad & Tobago",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "ට්‍රිනිඩෑඩ් සහ ටොබැගෝ",
+        "flag": "🇹🇹",
+        "code": "TT",
+        "dial_code": '+1",
     },
     {
         "name": "ටියුනීසියාව",
@@ -1140,16 +1134,16 @@
         "dial_code": "+678"
     },
     {
-        "name": "Vatican City",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "වතිකානු නගරය",
+        "flag": "🇻🇦",
+        "code": "VA",
+        "dial_code": "+379",
     },
     {
-        "name": "Venezuela",
-        "flag": null,
-        "code": null,
-        "dial_code": null
+        "name": "වෙනිසියුලාව",
+        "flag": "🇻🇪",
+        "code": "VE",
+        "dial_code": "+58",
     },
     {
         "name": "වියට්නාමය",
